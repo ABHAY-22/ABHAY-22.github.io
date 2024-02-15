@@ -150,8 +150,8 @@ nav ul.active {
 }
 
 #myname {
-  margin: 20px 0px 30px 4px;
-  font-weight: 400;
+  margin: 0px 0px 10px 2px;
+  font-weight: 500;
   color: aqua;
   font-size: 20px;
 }
@@ -163,7 +163,7 @@ nav ul.active {
 }
 
 #title {
-  margin: 0px 0px 10px 4px;
+  margin: 0px 0px 10px 2px;
   font-size: clamp(20px, 5vw, 30px);
   color: aqua;
 }
@@ -185,7 +185,7 @@ nav ul.active {
 
 #info-div p {
   font-size: clamp(15px, 5vw, 8px);
-  color: #0d2f0b;
+  color: aqua;
   margin: 0px 0px 30px 4px;
 
 }
