@@ -402,7 +402,7 @@ nav ul.active {
 .project-image-div {
   width: 45%;
   height: 320px;
-  border: 8px solid #1c861e;
+  border: 8px solid aqua;
   border-radius: 10px;
   padding: 5px;
   display: flex;
