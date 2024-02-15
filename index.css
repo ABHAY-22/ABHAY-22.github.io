@@ -151,7 +151,7 @@ nav ul.active {
 
 #myname {
   margin: 0px 0px 10px 2px;
-  font-weight: 500;
+  font-weight: 400;
   color: aqua;
   font-size: 20px;
 }
@@ -213,7 +213,7 @@ nav ul.active {
   /*  padding-top: 80px;*/
   width: 100%;
   font-size: 30px;
-  color: #0f2f0b;
+  color: aqua;
   text-align: center;
 }
 
@@ -320,7 +320,7 @@ nav ul.active {
   padding-top: 100px;
   width: 100%;
   font-size: 40px;
-  color: #0c2f0b;
+  color: aqua;
   text-align: center;
 }
 
@@ -377,7 +377,7 @@ nav ul.active {
   padding-top: 100px;
   width: 100%;
   font-size: 40px;
-  color: #0b192f;
+  color: aqua;
   text-align: center;
 }
 
@@ -424,12 +424,12 @@ nav ul.active {
 
 .project-title {
   font-size: 27px;
-  color: black;
+  color: white;
 }
 
 .project-description {
   font-size: 15px;
-  color: black;
+  color: white;
   padding-right: 10px;
   padding-left: 10px;
 }
@@ -617,7 +617,7 @@ input[type=submit]:hover {
   padding-top: 100px;
   width: 100%;
   font-size: 40px;
-  color: #102f0b;
+  color: aqua;
   text-align: center;
 }
 
