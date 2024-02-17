@@ -118,6 +118,7 @@ nav ul.active {
   color: aqua;
   font-size: large;
   border-radius: 20px;
+  text-decoration: none;
 }
 
 #resume-link-1:hover {
@@ -454,6 +455,7 @@ nav ul.active {
   display: flex;
   align-items: center;
   justify-content: space-around;
+  
 
 }
 
@@ -483,7 +485,9 @@ nav ul.active {
   border-radius: 5px;
   cursor: pointer;
 }
-
+#contact{
+  text-align: center;
+}
 #contact-name {
   padding-top: 100px;
   width: 100%;
@@ -568,9 +572,10 @@ input[type=submit]:hover {
 
 #contact-email,
 #contact-phone {
-  color: #cccc;
+  color: white;
   font-size: 20px;
   padding: 20px;
+ 
 }
 
 #stranger-head {
@@ -619,6 +624,8 @@ input[type=submit]:hover {
   font-size: 40px;
   color: aqua;
   text-align: center;
+  
+  
 }
 
 #github-subdiv1 {
@@ -721,7 +728,9 @@ input[type=submit]:hover {
   #title {
       text-align: center;
   }
-
+  #contact{
+    text-align: center;
+  }
   #Home_subdiv1 {
       width: 100%;
       display: flex;
@@ -776,6 +785,8 @@ input[type=submit]:hover {
       margin-top: 20px;
   }
 
+  
+
   #contact-div {
       flex-direction: column;
       width: 90%;
@@ -828,7 +839,9 @@ input[type=submit]:hover {
       text-align: center;
       margin: auto;
   }
-
+  #contact{
+    text-align: center;
+  }
   #myname,
   #name,
   #title {
@@ -924,7 +937,9 @@ input[type=submit]:hover {
       top: 65.18px;
       height: calc(100vh - 65.18px);
   }
-
+  #contact{
+    text-align: center;
+  }
   #home {
       width: 90%;
       flex-direction: column;
@@ -1030,7 +1045,9 @@ input[type=submit]:hover {
   header {
       padding: 2rem 3rem;
   }
-
+  #contact{
+    text-align: center;
+  }
   nav ul {
       top: 65.18px;
       height: calc(100vh - 65.18px);
@@ -1164,11 +1181,15 @@ input[type=submit]:hover {
       height: auto;
       margin-top: 20px;
   }
+  #contact{
+    text-align: center;
+  }
 
   #contact-div {
       display: block;
       width: 90%;
   }
+
 
   #contact-subdiv1,
   #contact-subdiv2 {
